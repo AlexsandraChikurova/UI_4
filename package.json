@@ -1,0 +1,1 @@
+{"name":"mops-and-mat","private":true,"type":"module","scripts":{"test":"node tests/model.test.mjs"}}
